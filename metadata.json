@@ -1,0 +1,7 @@
+{
+  "name": "Envision Aura - AI Cosmetics",
+  "description": "A high-end, professional cosmetics e-commerce platform featuring an AI-powered Skincare Consultant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
